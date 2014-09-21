@@ -1,6 +1,5 @@
 ---
-title: "HelloWorld"
-output: html_document
+title: HelloWorld
 ---
 
 ## This is a Markdown file. 
